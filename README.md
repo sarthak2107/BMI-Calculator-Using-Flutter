@@ -12,13 +12,13 @@ A simple and user-friendly **Body Mass Index (BMI) Calculator** built using **Fl
 
 ## 📸 Screenshots  
 ### ✅ **Home Screen**
-![BMI Calculator]()
+![BMI Calculator](assets/homescreen.png)
 
 ### ✅ **Sample Input Data**
-![BMI Calculator](https://via.placeholder.com/800x400?text=Screenshot+of+App)
+![BMI Calculator](assets/sample-input-data.png)
 
 ### ✅ **Output**
-![BMI Calculator](https://via.placeholder.com/800x400?text=Screenshot+of+App)
+![BMI Calculator](assets/output.png)
 
 ---
 
